@@ -50,7 +50,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+MachineLearningRating_v3.txt
+car_insurance/
 # Translations
 *.mo
 *.pot
